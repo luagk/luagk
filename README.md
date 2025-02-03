@@ -2,8 +2,8 @@
 
 🎯 **Data Scientist** | 🎓 Materials Engineer & Data Science  
 📍 Studying at **Escola Politécnica - USP**, passionate about **AI, analytics, and cloud computing**  
-
 💡 Constantly learning and building **data-driven solutions** 🚀
+
 ---
 
 ## 🛠️ **Tech Stack & Skills**
