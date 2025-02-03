@@ -45,11 +45,17 @@
 ---
 
 ## 🌎 **Let's Connect!**
+<a href="https://luanagomes.notion.site/" target="_blank">
+  <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion&logoColor=white"/>
+</a>
 <a href="https://www.linkedin.com/in/luanagomesd" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-<a href="mailto:seuemail@dominio.com">
+<a href="mailto:luanagomesalk@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://api.whatsapp.com/send?phone=5511982135418&text=Ol%C3%A1%2C%20entrei%20em%20contato%20ap%C3%B3s%20visualizar%20seu%20portf%C3%B3lio.%20Gostaria%20de%20saber%20mais%20sobre%20suas%20experi%C3%AAncias%20e%20como%20podemos%20colaborar." target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
 </a>
 
 ---
