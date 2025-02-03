@@ -1,10 +1,9 @@
 # 👋 Hey! I'm Luana Gomes 
 
 🎯 **Data Scientist** | 🎓 Materials Engineer & Data Science  
-📊 Passionate about **AI, analytics, and cloud computing**  
+📍 Studying at **Escola Politécnica - USP**, passionate about **AI, analytics, and cloud computing**  
 
-💡 Constantly learning and building **data-driven solutions** 🚀  
-
+💡 Constantly learning and building **data-driven solutions** 🚀
 ---
 
 ## 🛠️ **Tech Stack & Skills**
