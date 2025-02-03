@@ -45,3 +45,12 @@
 </a>
 
 ---
+
+
+## 🎨 **This is me!**  
+<div align="center">
+  <img src="https://github.com/luagk/luagk/blob/main/octocat-1738621343846.png?raw=true" width="250">
+  <p style="text-align: center;">
+    24 years old, animal lover, passionate about house and disco music. I enjoy roller skating and capturing moments through photography. 🎶🛼📸
+  </p>
+</div>
